@@ -1,0 +1,3 @@
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Debug\mystickmangame.vcxproj.AssemblyReference.cache
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Debug\mystickmangame.MyForm.resources
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Debug\mystickmangame.vcxproj.GenerateResource.cache

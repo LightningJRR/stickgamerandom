@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(33,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(33,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(41,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(41,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\MyForm.h(20,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Source.cpp
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(33,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(33,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(41,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\Character.h(41,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\cramo\source\repos\mystickmangame\mystickmangame\MyForm.h(20,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  mystickmangame.vcxproj -> C:\Users\cramo\source\repos\mystickmangame\Debug\mystickmangame.exe
